@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Nojus GitHub stats](https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&theme=vue-dark)
+![Nojus GitHub stats](https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&theme=vue-dark&count_private=true)
 <!--
 **nojussta/nojussta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
