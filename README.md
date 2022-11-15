@@ -1,5 +1,4 @@
-|<div align="center"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=nojussta&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+|<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nojussta&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a></div>
 | ------------- | ------------- |
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nojussta" alt="visitors">
