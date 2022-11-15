@@ -1,4 +1,4 @@
-| <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&hide_border=true" /></a>
+| <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a>
 | ------------- | ------------- |
 
  💻 **Operating systems:** <br>
