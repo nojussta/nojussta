@@ -1,6 +1,6 @@
-|<div align="center">
- <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a></div>
-| ------------- | ------------- |
+<div align="center">
+ <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a>
+ <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a> <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nojussta" alt="visitors">
 
  💻 **Operating systems:** <br>
@@ -33,7 +33,13 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nojus-stasiunas/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nojussta)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/nojussta)
+ </div>
 <!--
+----------------------
+|<div align="center">
+ <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a></div>
+| ------------- | ------------- |
+----------------------
 **nojussta/nojussta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
