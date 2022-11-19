@@ -1,7 +1,6 @@
+| <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=react&hide_border=true&count_private=true" alt="Nojus github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nojussta&theme=react&border_radius=5&hide_border=true&date_format=n%2Fj%5B%2FY%5D" /></a> |
+| ------------- | ------------- |
 <div align="center">
- <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=react&hide_border=true&count_private=true" alt="Nojus github stats" /></a>
- <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nojussta&theme=react&border_radius=5&date_format=n%2Fj%5B%2FY%5D" /></a> 
- <br> <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nojussta" alt="visitors">
 <!--   <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a> -->
  
