@@ -1,13 +1,14 @@
 <div align="center">
  <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nojussta&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Nojus github stats" /></a>
- <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a> <br>
+ <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nojussta&theme=vue&border_radius=5&date_format=n%2Fj%5B%2FY%5D" /></a> 
+ <br> <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nojussta" alt="visitors">
-
- 💻 **Operating systems:** <br>
+<!--   <a href="https://github.com/nojussta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojussta&theme=vue&langs_count=5&hide_border=true" /></a> -->
  
+ 💻 **Operating systems:** <br>
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+          
 🛠️ **Languages:** <br>
 
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
